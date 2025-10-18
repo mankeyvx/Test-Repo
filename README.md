@@ -1,3 +1,3 @@
 # Test-Repo
 Testing, lets go!
-My first commit for the Base airdrop quest 🚀
+My first commit on github, still testing things out!
